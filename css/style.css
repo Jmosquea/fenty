@@ -1,5 +1,6 @@
 body{
 	background-color: #f9ebdb;
+	width: 1420px;
 
 }
 nav{
@@ -9,7 +10,8 @@ nav{
 	top: 0;
 	overflow: hidden;
 	position: fixed;
-	width: 99%;
+	width: 1420px;
+	margin-left: -5px;
 }
 
 nav ul{
@@ -44,17 +46,28 @@ nav ul li a:hover{
 	text-align: center;
 	width: 100%;
 }
-.row2{
-	margin: 20px;
 
+.row img{
+	width: 1220px;
+	margin-right: 800px;
+	margin-left: 20px;
+}
+.row2{
+	margin-right: 50px;
+	margin-left: -30px;
+	text-align: center;
+	width: 100%;
 }
 
 .row2 img{
+
 	display: inline-block;
-	padding: 10px;
+	/*padding: 10px; */
 	position: relative;
 	text-align: center;
 	z-index: -1;
+	float: right;
+
 
 }
 
@@ -91,11 +104,25 @@ figure a:hover{
 	background-color: black;
 	color: white;
 	margin-top: 45px;
-	padding: 60px;
+	padding: 60px; 
+	
+}
+.row4 h2{
+	text-indent: px;
+	padding: px;
 	text-align: center;
 	font-family: verdana;
 	text-transform: uppercase;
 }
 
+.row4 h3{
+	padding: px;
+	text-align: center;
+	font-family: verdana;
+	text-transform: uppercase;
+}
+form{
+	text-align: center;
+}
 
 
