@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Fenty Beauty is a new cosmetic line created by Rihanna. Fenty Beauty is revolutionizing the makeup industry by providing a more diverse line for women of all shades and colors. "> <!--CHANGED META TAG -->
+
+    <meta name="author" content="">
+
+    <title>Fenty Beauty by Rihanna | Beauty in Diversity </title> <!--CHANGED TITLE TAG -->
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="css/style.css">
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108840061-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108840061-1');
+</script>
+  </head>
+
+
+<body>
+  <div class="landpageb">
+   <video width="1020" height="1020" autoplay>
+  <source src="images/Vid.mp4" type="video/mp4"></video>
+  </div>
+
+  <div class="landpagebrow2">
+    <h3>
+    We completed obsessive research to create the perfect range of shades for all. We used exclusive insights from the world’s top makeup artists and extensively tested for real life, on real women.We figured out that it takes the right balance of tone and texture to make foundation work on every skin type. We obsessed over custom pigment levels to capture your truest tones with a soft matte finish that’s just right—not too matte and not too shiny.
+    The result? A comfortable longwear formula that lets skin look like skin. Made for all women to love. Come and find your shade! </h3>
+  </div> <br>
+
+<div class="landpagerow4">
+  <button type="submit"><a href="index.html">ENTER SITE</a></button>
+</div>  <br>
+
+</body>
+ </html>
